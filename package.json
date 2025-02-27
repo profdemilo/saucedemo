@@ -1,0 +1,22 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "Automation Tetsing using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profdemilo/saucedemo.git"
+  },
+  "author": "Emile Esapa\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DProff Emile Esapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profdemilo/saucedemo/issues"
+  },
+  "homepage": "https://github.com/profdemilo/saucedemo#readme",
+  "dependencies": {
+    "cypress": "^14.1.0"
+  }
+}
